@@ -1,0 +1,51 @@
+instruction {
+	border: 2px solid bgray;
+	padding: 2%;
+	background-color: black; 
+	opacity: 0.6; 
+	color: red;
+}
+
+.randomNumber {
+	border: 2px solid gray;
+	padding: 3%;
+	background-color: black; 
+	opacity: 0.6; 
+	color: red;
+	font-size: 200%; 
+}
+
+.totalWL { 
+	border: 2px solid gray;
+	padding: 2%; 
+	background-color: black; 
+	opacity: 0.6; 
+ }
+
+ .totalScore {
+ 	border: 2px solid gray; 
+ 	background-color: black; 
+	opacity: 0.6; 
+	color: red;
+
+ }
+
+ .scoreDisplay {
+ 	border: 2px solid gray;
+	padding: 3%; 
+	background-color: black; 
+	opacity: 0.6; 
+	color: red;
+	font-size: 200% 
+ }
+
+ 
+
+ .header { 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+  }
+
+  .wins, .losses { 
+	padding: 2%;
+	color:red ;
+  }
